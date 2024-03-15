@@ -1,2 +1,2 @@
 # Covid-19-Data-Exploration-using-SQL
-Description:  "COVID-19 Data Exploration" uses SQL to analyze cases, deaths, and vaccination rates. Insights on mortality, infection rates, and global trends are provided.
+Description:  This repository, "COVID-19 Data Exploration", conducts in-depth analysis of COVID-19 data using SQL. Utilizing advanced SQL techniques like joins, CTEs, temp tables, and window functions, it investigates key metrics such as total cases, deaths, vaccination rates, and population percentages. The project provides insights into mortality rates, infection rates by population, and global trends, offering valuable information for understanding the pandemic's impact worldwide.

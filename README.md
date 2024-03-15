@@ -1,2 +1,12 @@
 # Covid-19-Data-Exploration-using-SQL
-This repository, "COVID-19 Data Exploration", conducts in-depth analysis of COVID-19 data using SQL. Utilizing advanced SQL techniques like joins, CTEs, temp tables, and window functions, it investigates key metrics such as total cases, deaths, vaccination rates, and population percentages. The project provides insights into mortality rates, infection rates by population, and global trends, offering valuable information for understanding the pandemic's impact worldwide.
+- **Title:** "COVID-19 Data Exploration"
+- **Objective:** Utilize SQL for comprehensive COVID-19 data analysis.
+- **Techniques:** Joins, CTEs, temp tables, window functions, aggregates, views.
+- **Initial Focus:** Extract essential info, filter by continent, arrange for clarity.
+- **Analysis:** Relationship between cases, deaths; mortality likelihood, infection rates.
+- **Exploration:** Highest infection and death rates by country and continent.
+- **Global Stats:** Total cases, deaths, death percentage of new cases.
+- **Vaccination Analysis:** Relationship between population and vaccination rates.
+- **Techniques Used:** CTEs, temp tables to calculate percentage vaccinated.
+- **Value:** Insights into pandemic impact and vaccination effectiveness.
+- **Audience:** Anyone exploring COVID-19 data via SQL for informed insights.
